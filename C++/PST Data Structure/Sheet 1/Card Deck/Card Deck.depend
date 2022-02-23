@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644356855 source:e:\projects\c++\problems\pst data structure\card deck\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+

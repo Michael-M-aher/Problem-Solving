@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644365168 source:e:\projects\c++\problems\pst data structure\just next !!!\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+

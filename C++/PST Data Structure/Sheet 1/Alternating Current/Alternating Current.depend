@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644323550 source:e:\projects\c++\problems\pst data structure\alternating current\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stack>
+

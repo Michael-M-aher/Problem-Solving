@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644324548 source:e:\projects\c++\problems\pst data structure\parentheses balance\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stack>
+

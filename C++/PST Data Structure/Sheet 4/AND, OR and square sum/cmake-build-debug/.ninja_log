@@ -1,0 +1,21 @@
+# ninja log v5
+0	1058	6680772897768614	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+1061	1228	6680772899448997	AND__OR_and_square_sum.exe	9c97147c0e4194fe
+3	1022	6680773543698588	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+1023	1199	6680773545449035	AND__OR_and_square_sum.exe	9c97147c0e4194fe
+2	1031	6680774704996533	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+1031	1174	6680774706426857	AND__OR_and_square_sum.exe	9c97147c0e4194fe
+2	1003	6680776666406319	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+1004	1170	6680776667916652	AND__OR_and_square_sum.exe	9c97147c0e4194fe
+3	993	6680778448634732	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+994	1140	6680778450095060	AND__OR_and_square_sum.exe	9c97147c0e4194fe
+3	963	6680778779606251	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+963	1104	6680778780986556	AND__OR_and_square_sum.exe	9c97147c0e4194fe
+2	1013	6680779511188494	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+1013	1172	6680779512758902	AND__OR_and_square_sum.exe	9c97147c0e4194fe
+2	1004	6680779714277696	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+1005	1151	6680779715728029	AND__OR_and_square_sum.exe	9c97147c0e4194fe
+3	966	6680779954749471	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+967	1110	6680779956149781	AND__OR_and_square_sum.exe	9c97147c0e4194fe
+2	972	6680780404997987	CMakeFiles/AND__OR_and_square_sum.dir/main.cpp.obj	c384b8b6f67f7ec6
+973	1117	6680780406421508	AND__OR_and_square_sum.exe	9c97147c0e4194fe

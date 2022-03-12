@@ -1,0 +1,19 @@
+# ninja log v5
+0	1093	6679342753720031	CMakeFiles/Building_Permutation.dir/main.cpp.obj	2bb43674bf8ba630
+1096	1250	6679342755260465	Building_Permutation.exe	f9fc143051fca04c
+2	982	6679342924723175	CMakeFiles/Building_Permutation.dir/main.cpp.obj	2bb43674bf8ba630
+982	1129	6679342926183494	Building_Permutation.exe	f9fc143051fca04c
+3	1120	6679344469243076	CMakeFiles/Building_Permutation.dir/main.cpp.obj	2bb43674bf8ba630
+1121	1270	6679344470704038	Building_Permutation.exe	f9fc143051fca04c
+3	1047	6679344813180059	CMakeFiles/Building_Permutation.dir/main.cpp.obj	2bb43674bf8ba630
+1048	1195	6679344814642139	Building_Permutation.exe	f9fc143051fca04c
+2	1076	6679345476504538	CMakeFiles/Building_Permutation.dir/main.cpp.obj	2bb43674bf8ba630
+1076	1222	6679345477954865	Building_Permutation.exe	f9fc143051fca04c
+3	1080	6679345854785991	CMakeFiles/Building_Permutation.dir/main.cpp.obj	2bb43674bf8ba630
+1080	1234	6679345856316330	Building_Permutation.exe	f9fc143051fca04c
+3	1042	6679346166520648	CMakeFiles/Building_Permutation.dir/main.cpp.obj	2bb43674bf8ba630
+1043	1190	6679346167970969	Building_Permutation.exe	f9fc143051fca04c
+3	1050	6679346685910589	CMakeFiles/Building_Permutation.dir/main.cpp.obj	2bb43674bf8ba630
+1051	1196	6679346687350912	Building_Permutation.exe	f9fc143051fca04c
+2	1050	6679346806557153	CMakeFiles/Building_Permutation.dir/main.cpp.obj	2bb43674bf8ba630
+1050	1205	6679346808077490	Building_Permutation.exe	f9fc143051fca04c

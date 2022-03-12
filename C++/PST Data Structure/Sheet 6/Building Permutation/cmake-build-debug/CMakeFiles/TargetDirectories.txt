@@ -1,0 +1,3 @@
+C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 6/Building Permutation/cmake-build-debug/CMakeFiles/Building_Permutation.dir
+C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 6/Building Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 6/Building Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

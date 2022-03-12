@@ -33,7 +33,6 @@ void solveRow(int row,int col){
                 for (int j = 0; j < 9; ++j) {
                     if(v[j][col]==(char)i){
                         found = true;
-                        break;
                     }
                 }
                 if(!found){

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Back_to_the_8_Queens",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Back_to_the_8_Queens::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Back_to_the_8_Queens-Debug-0a57a2111708b3c780b0.json",
+					"name" : "Back_to_the_8_Queens",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 5/Back to the 8-Queens/cmake-build-debug",
+		"source" : "C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 5/Back to the 8-Queens"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

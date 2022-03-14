@@ -11,14 +11,7 @@ const int mod = 1e9 + 7;
 
 int main() {
     FIO
-    int n,q,k;cin >> n>>k>>q;
-    vector<pair<int,int>> v(n);
-    for (int i = 0; i < n; ++i) {
-        cin>>v[i].first>>v[i].second;
-    }
-    for (int i = 0; i < q; ++i) {
-        int a,b;
-        cin>>a>>b;
-    }
+    int c=3;char d='a';
+    printf("1/2 = %f",(float)(1/2));
     return 0;
 }

@@ -39,13 +39,13 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST$ Data$ Structure/Sheet$ 8/Karen$ and$ Coffee/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST$ Data$ Structure/Sheet$ 7/Karen$ and$ Coffee/cmake-build-debug/
 
 #############################################
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8\Karen and Coffee\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8\Karen and Coffee" -B"C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8\Karen and Coffee\cmake-build-debug""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 7\Karen and Coffee\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 7\Karen and Coffee" -B"C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 7\Karen and Coffee\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -61,7 +61,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build cmake_object_order_depends_target_Karen_and_Coffee: phony || CMakeFiles/Karen_and_Coffee.dir
 
-build CMakeFiles/Karen_and_Coffee.dir/main.cpp.obj: CXX_COMPILER__Karen_and_Coffee_Debug C$:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST$ Data$ Structure/Sheet$ 8/Karen$ and$ Coffee/main.cpp || cmake_object_order_depends_target_Karen_and_Coffee
+build CMakeFiles/Karen_and_Coffee.dir/main.cpp.obj: CXX_COMPILER__Karen_and_Coffee_Debug C$:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST$ Data$ Structure/Sheet$ 7/Karen$ and$ Coffee/main.cpp || cmake_object_order_depends_target_Karen_and_Coffee
   DEP_FILE = CMakeFiles\Karen_and_Coffee.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Karen_and_Coffee.dir
@@ -93,7 +93,7 @@ build Karen_and_Coffee.exe: CXX_EXECUTABLE_LINKER__Karen_and_Coffee_Debug CMakeF
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8\Karen and Coffee\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 7\Karen and Coffee\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -110,7 +110,7 @@ build Karen_and_Coffee: phony Karen_and_Coffee.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8/Karen and Coffee/cmake-build-debug
+# Folder: C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 7/Karen and Coffee/cmake-build-debug
 
 build all: phony Karen_and_Coffee.exe
 

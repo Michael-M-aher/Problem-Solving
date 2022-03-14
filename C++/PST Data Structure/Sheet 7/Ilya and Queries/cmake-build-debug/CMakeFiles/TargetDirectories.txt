@@ -1,3 +1,0 @@
-C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8/Ilya and Queries/cmake-build-debug/CMakeFiles/Ilya_and_Queries.dir
-C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8/Ilya and Queries/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8/Ilya and Queries/cmake-build-debug/CMakeFiles/rebuild_cache.dir

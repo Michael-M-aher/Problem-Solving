@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8/Karen and Coffee
+# Install script for directory: C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 7/Karen and Coffee
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8/Karen and Coffee/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 7/Karen and Coffee/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

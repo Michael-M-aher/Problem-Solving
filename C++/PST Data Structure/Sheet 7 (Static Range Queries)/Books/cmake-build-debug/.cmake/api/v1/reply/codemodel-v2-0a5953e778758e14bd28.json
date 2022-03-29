@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Books",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Books::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Books-Debug-b9719955aacf5e9920c3.json",
+					"name" : "Books",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 7 (Static Range Queries)/Books/cmake-build-debug",
+		"source" : "C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 7 (Static Range Queries)/Books"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

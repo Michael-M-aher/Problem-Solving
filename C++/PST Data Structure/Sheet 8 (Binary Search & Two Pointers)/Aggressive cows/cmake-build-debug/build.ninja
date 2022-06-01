@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST$ Data$ Structure/Sheet$ 8$ (Binary$ Search$ &$ Two$ Pointers)/Aggressive$ cows/cmake-build-debug/
+cmake_ninja_workdir = E$:/Projects/Github/MyGithub/Problem-Solving/C++/PST$ Data$ Structure/Sheet$ 8$ (Binary$ Search$ &$ Two$ Pointers)/Aggressive$ cows/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Aggressive_cows
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST
 
 build cmake_object_order_depends_target_Aggressive_cows: phony || CMakeFiles/Aggressive_cows.dir
 
-build CMakeFiles/Aggressive_cows.dir/main.cpp.obj: CXX_COMPILER__Aggressive_cows_Debug C$:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST$ Data$ Structure/Sheet$ 8$ (Binary$ Search$ &$ Two$ Pointers)/Aggressive$ cows/main.cpp || cmake_object_order_depends_target_Aggressive_cows
+build CMakeFiles/Aggressive_cows.dir/main.cpp.obj: CXX_COMPILER__Aggressive_cows_Debug E$:/Projects/Github/MyGithub/Problem-Solving/C++/PST$ Data$ Structure/Sheet$ 8$ (Binary$ Search$ &$ Two$ Pointers)/Aggressive$ cows/main.cpp || cmake_object_order_depends_target_Aggressive_cows
   DEP_FILE = CMakeFiles\Aggressive_cows.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Aggressive_cows.dir
@@ -81,7 +81,7 @@ build Aggressive_cows.exe: CXX_EXECUTABLE_LINKER__Aggressive_cows_Debug CMakeFil
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8 (Binary Search & Two Pointers)\Aggressive cows\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "E:\Projects\Github\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8 (Binary Search & Two Pointers)\Aggressive cows\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8 (Binary Search & Two Pointers)\Aggressive cows\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8 (Binary Search & Two Pointers)\Aggressive cows" -B"C:\Users\misho\Documents\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8 (Binary Search & Two Pointers)\Aggressive cows\cmake-build-debug""
+  COMMAND = cmd.exe /C "cd /D "E:\Projects\Github\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8 (Binary Search & Two Pointers)\Aggressive cows\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"E:\Projects\Github\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8 (Binary Search & Two Pointers)\Aggressive cows" -B"E:\Projects\Github\MyGithub\Problem-Solving\C++\PST Data Structure\Sheet 8 (Binary Search & Two Pointers)\Aggressive cows\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -110,7 +110,7 @@ build Aggressive_cows: phony Aggressive_cows.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8 (Binary Search & Two Pointers)/Aggressive cows/cmake-build-debug
+# Folder: E:/Projects/Github/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8 (Binary Search & Two Pointers)/Aggressive cows/cmake-build-debug
 
 build all: phony Aggressive_cows.exe
 

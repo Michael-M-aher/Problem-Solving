@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8 (Binary Search & Two Pointers)/Aggressive cows
+# Install script for directory: E:/Projects/Github/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8 (Binary Search & Two Pointers)/Aggressive cows
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/misho/Documents/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8 (Binary Search & Two Pointers)/Aggressive cows/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Projects/Github/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 8 (Binary Search & Two Pointers)/Aggressive cows/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

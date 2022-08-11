@@ -1,4 +1,4 @@
-# Install script for directory: E:/Projects/Github/MyGithub/Data-Structure-Assignments/Median
+# Install script for directory: E:/Projects/Github/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 9 (Sorting Algorithms I)/Median
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Projects/Github/MyGithub/Data-Structure-Assignments/Median/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Projects/Github/MyGithub/Problem-Solving/C++/PST Data Structure/Sheet 9 (Sorting Algorithms I)/Median/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

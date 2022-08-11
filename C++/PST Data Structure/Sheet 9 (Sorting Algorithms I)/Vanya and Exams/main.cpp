@@ -11,21 +11,23 @@ const int mod = 1e9 + 7;
 
 int main() {
     FIO
-    int n, r, avg,sum=0,ans=0;
+    int n, r;
+    ll avg,sum=0,ans=0;
     cin >> n>> r>>avg;
-    vector<pair<int,int>> v(n);
+    vector<pair<ll,ll>> v(n);
     for (int i = 0; i < n; ++i) {
         cin>>v[i].second>>v[i].first;
         sum+=v[i].second;
     }
+    ll rem = avg*n - sum;
     sort(v.begin(),v.end());
     for (int i = 0; i < n; ++i) {
-        while(sum<avg*n){
-            if(v[i].second<=r){
-                v[i].second++;
-                ans++;
-                sum++;
-            }
+        ll dif = r - v[i].second;
+        if(rem>0){
+            ll tmp = min(rem,dif);
+            v[i].second+=tmp;
+            ans+=v[i].first*tmp;
+            rem-= tmp;
         }
     }
     cout<<ans;

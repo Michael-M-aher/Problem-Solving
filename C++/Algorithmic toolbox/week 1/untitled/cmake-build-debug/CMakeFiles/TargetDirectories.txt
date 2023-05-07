@@ -1,3 +1,0 @@
-E:/Projects/Github/MyGithub/Problem-Solving/C++/Algorithmic toolbox/week 1/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Projects/Github/MyGithub/Problem-Solving/C++/Algorithmic toolbox/week 1/untitled/cmake-build-debug/CMakeFiles/untitled.dir
-E:/Projects/Github/MyGithub/Problem-Solving/C++/Algorithmic toolbox/week 1/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
